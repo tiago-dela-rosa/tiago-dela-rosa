@@ -1,6 +1,6 @@
 # Yep 👋
 
-I am Tiago Dela Rosa from São Paulo, Brazil who likes to work in personal projects with funny/creative/innovative proposals. I consider myself as a skilled JS Developer with good debugging skills. Right now im working at Avanade/Accenture.
+I am Tiago Dela Rosa from São Paulo, Brazil who likes to work in personal projects with funny/creative/innovative proposals. I consider myself as a skilled JS Developer with good debugging skills. Right now im working at Juntos Somos Mais.
 
 
 ### What i know
